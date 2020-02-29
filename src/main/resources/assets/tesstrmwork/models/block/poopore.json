@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "tesstrmwork:blocks/poop_ore",
-    "particle": "tesstrmwork:blocks/poop_ore"
-  }
-}
