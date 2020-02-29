@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:PoopOreBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PoopGem"
+      },
+      {
+        "value": "CUSTOM:PoopGem"
+      },
+      {
+        "value": "CUSTOM:PoopGem"
+      },
+      {
+        "value": "CUSTOM:PoopGem"
+      },
+      {
+        "value": "CUSTOM:PoopGem"
+      },
+      {
+        "value": "CUSTOM:PoopGem"
+      },
+      {
+        "value": "CUSTOM:PoopGem"
+      },
+      {
+        "value": "CUSTOM:PoopGem"
+      },
+      {
+        "value": "CUSTOM:PoopGem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "pooporeblockrecipe",
+    "namespace": "mod"
+  }
+}

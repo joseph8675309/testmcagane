@@ -1,0 +1,13 @@
+{
+  "group": "tesstrmwork",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tesstrmwork:pooporeblock"
+    }
+  ],
+  "result": {
+    "item": "tesstrmwork:poopgem",
+    "count": 9
+  }
+}

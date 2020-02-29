@@ -1,0 +1,42 @@
+{
+  "group": "tesstrmwork",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tesstrmwork:poopgem"
+    },
+    "1": {
+      "item": "tesstrmwork:poopgem"
+    },
+    "2": {
+      "item": "tesstrmwork:poopgem"
+    },
+    "3": {
+      "item": "tesstrmwork:poopgem"
+    },
+    "4": {
+      "item": "tesstrmwork:poopgem"
+    },
+    "5": {
+      "item": "tesstrmwork:poopgem"
+    },
+    "6": {
+      "item": "tesstrmwork:poopgem"
+    },
+    "7": {
+      "item": "tesstrmwork:poopgem"
+    },
+    "8": {
+      "item": "tesstrmwork:poopgem"
+    }
+  },
+  "result": {
+    "item": "tesstrmwork:pooporeblock",
+    "count": 1
+  }
+}
